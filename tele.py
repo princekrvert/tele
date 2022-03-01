@@ -2,10 +2,6 @@
 # made by prince kumar 
 # date 1  mar 2022
 # import all the stuff 
-from email import header
-from lib2to3.pgen2 import token
-from unittest import result
-from aiohttp import request
 import requests 
 import json 
 Token = input("\033[32;1m Enter the api for your bot : ")
