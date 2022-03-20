@@ -1,0 +1,33 @@
+{
+  "name": "tele",
+  "version": "1.0.0",
+  "description": "telegram bot in node js ",
+  "main": "app.js ",
+  "scripts": {
+    "test": "node app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princekrvert/tele.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "termux-tool",
+    "node",
+    "js",
+    "princekrvert",
+    "simple",
+    "bot"
+  ],
+  "author": "Prince Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princekrvert/tele/issues"
+  },
+  "homepage": "https://github.com/princekrvert/tele#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
